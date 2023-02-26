@@ -91,6 +91,7 @@ def recommend_portfolio(intent_request):
     source = intent_request["invocationSource"]
 
     if source == "DialogCodeHook":
+        slots = get_slots(intent_request)
         # Perform basic validation on the supplied input slots.
         # Use the elicitSlot dialog action to re-prompt
         # for the first violation detected.
@@ -186,7 +187,7 @@ def dispatch(intent_request):
     intent_name = intent_request["currentIntent"]["name"]
 
     # Dispatch to bot's intent handlers
-    if intent_name == "RecommendPortfolio":
+    if intent_name == "recommendPortfolio":
         return recommend_portfolio(intent_request)
 
     raise Exception("Intent with name " + intent_name + " not supported")
