@@ -50,16 +50,15 @@ You will need to set up an AWS account to run Lex and Lambda.
 
 ## Videos
 
-![Video1](./video/video1.mov)
-
-![Video1](./video/video2.mov)
-
-
 
 https://user-images.githubusercontent.com/116671695/222326209-ae0ea6a7-2556-4f31-9ed9-fcd382ee54f4.mov
 
 
-https://user-images.githubusercontent.com/116671695/222326101-06959fe9-ac8d-4cdc-a6e2-fb2b4615047f.mov
+
+
+
+https://user-images.githubusercontent.com/116671695/222326333-b6b41b77-a389-41a4-b1bf-e57876168e6c.mov
+
 
 
 
