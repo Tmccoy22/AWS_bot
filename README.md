@@ -28,8 +28,12 @@ You will need to set up an AWS account to run Lex and Lambda.
 
 ---
 
-## Usage
+## Test
 
+<img width="1162" alt="Screen Shot 2023-03-01 at 8 58 32 PM" src="https://user-images.githubusercontent.com/116671695/222328040-d6a651d3-8b33-4333-bdb5-89056c8e0b62.png">
+<img width="1274" alt="Screen Shot 2023-03-01 at 8 59 00 PM" src="https://user-images.githubusercontent.com/116671695/222328051-e2c39db3-14c3-40eb-becb-8664e29acd79.png">
+<img width="1311" alt="Screen Shot 2023-03-01 at 8 59 12 PM" src="https://user-images.githubusercontent.com/116671695/222328064-c7eded04-ff4c-4431-b67c-eecbe0ded8e4.png">
+<img width="1227" alt="Screen Shot 2023-03-01 at 8 59 22 PM" src="https://user-images.githubusercontent.com/116671695/222328075-f8410376-2a53-4297-9f1c-da83de5ccea1.png">
 
 ---
 
